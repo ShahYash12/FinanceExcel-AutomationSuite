@@ -4,7 +4,7 @@ This project automates the transformation of multiple `.xlsx` financial reports 
 
 ## 🔧 Project Features
 
-- Batch process 50–100 Excel files using Python (xlwings)
+- Batch process 100+ Excel files using Python (xlwings)
 - Automatically copy all sheets or selected sheets into a template
 - Retains formulas, formatting, images, and charts
 - Built for a mid-sized **Accounting Firm** to simplify recurring finance reports
@@ -44,4 +44,4 @@ Make sure Excel **Trust Center Settings** are enabled:
 
 ---
 
-Built by [Your Name] for internal automation at a finance/accounting firm.
+Built by [Yash Shah] for internal automation at a finance/accounting firm.
